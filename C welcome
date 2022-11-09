@@ -4,4 +4,5 @@ void main()
 printf("Welcome");
 printf("ok");
 printf("not ok");
+printtf("you have been removed");
 }
