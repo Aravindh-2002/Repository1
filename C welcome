@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-printf("Welcome");
-printf("ok");
-printf("not ok");
-printf(" YOU HAVE BEEN REMOVED");
+printf("\n Welcome");
+printf("\tok");
+printf("\anot ok");
+printf(" \t\nYOU HAVE BEEN REMOVED");
 }
